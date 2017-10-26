@@ -9,3 +9,5 @@ git diff ---修改内容
 git log ---提交日志
 git is very nice!
 git origin test 1
+Creating a new branch is quick!
+	git origin test 2
