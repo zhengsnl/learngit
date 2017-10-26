@@ -6,3 +6,4 @@ git add file.java or whatever
 git commit -m"Information"
 git status ---工作区状态
 git diff ---修改内容
+git log ---提交日志
