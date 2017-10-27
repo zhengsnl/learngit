@@ -11,3 +11,4 @@ git is very nice!
 git origin test 1
 Creating a new branch is quick!
 	git origin test 2
+Set some conflictions is funny!
