@@ -13,3 +13,4 @@ Creating a new branch is quick!
 	git origin test 2
 create a new branch is quick & simple.
 Set some conflictions is funny!
+solve a interesting bug.
